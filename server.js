@@ -13,3 +13,4 @@ app.get('/news',(req,res)=>{
 app.listen(3000,()=>{
     console.log("Running now, go to your favorite browser")
 })
+// The end
